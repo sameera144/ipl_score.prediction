@@ -3,4 +3,4 @@ A machine learning model to predict the probability of a team winning based on m
 
 ### Features:
 - Input batting team, bowling team, score, and overs.
-- Predict win probability 
+- Predict win probability
